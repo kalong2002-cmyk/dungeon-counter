@@ -1,0 +1,12 @@
+{
+  "background_color": "#121216",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Dungeon Card Counter",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Dungeon Counter",
+  "start_url": "/",
+  "theme_color": "#121216",
+  "description": "A simple dungeon card counter app"
+}
